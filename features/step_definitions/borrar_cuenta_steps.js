@@ -1,6 +1,5 @@
 const { Given, When, Then } = require('@cucumber/cucumber');
 
-
 Given('que el usuario ha iniciado sesión en la aplicación', function () {
   // Simulamos que el usuario ya hizo login
   return 'pending';
